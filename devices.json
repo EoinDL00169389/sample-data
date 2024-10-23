@@ -1,0 +1,90 @@
+[
+  {
+    "id": 0,
+    "name": "do",
+    "type": "Camera",
+    "image": "http://placehold.it/32x32",
+    "source": "http://placehold.it/32x32",
+    "isActive": false
+  },
+  {
+    "id": 1,
+    "name": "id",
+    "type": "Door Sensor",
+    "image": "http://placehold.it/32x32",
+    "source": "http://placehold.it/32x32",
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "name": "eiusmod",
+    "type": "Door Sensor",
+    "image": "http://placehold.it/32x32",
+    "source": "http://placehold.it/32x32",
+    "isActive": false
+  },
+  {
+    "id": 3,
+    "name": "duis",
+    "type": "Alarm",
+    "image": "http://placehold.it/32x32",
+    "source": "http://placehold.it/32x32",
+    "isActive": true
+  },
+  {
+    "id": 4,
+    "name": "do",
+    "type": "Alarm",
+    "image": "http://placehold.it/32x32",
+    "source": "http://placehold.it/32x32",
+    "isActive": false
+  },
+  {
+    "id": 5,
+    "name": "sint",
+    "type": "Door Sensor",
+    "image": "http://placehold.it/32x32",
+    "source": "http://placehold.it/32x32",
+    "isActive": false
+  },
+  {
+    "id": 6,
+    "name": "culpa",
+    "type": "Alarm",
+    "image": "http://placehold.it/32x32",
+    "source": "http://placehold.it/32x32",
+    "isActive": true
+  },
+  {
+    "id": 7,
+    "name": "consectetur",
+    "type": "Door Sensor",
+    "image": "http://placehold.it/32x32",
+    "source": "http://placehold.it/32x32",
+    "isActive": false
+  },
+  {
+    "id": 8,
+    "name": "cillum",
+    "type": "Door Sensor",
+    "image": "http://placehold.it/32x32",
+    "source": "http://placehold.it/32x32",
+    "isActive": false
+  },
+  {
+    "id": 9,
+    "name": "dolore",
+    "type": "Alarm",
+    "image": "http://placehold.it/32x32",
+    "source": "http://placehold.it/32x32",
+    "isActive": false
+  },
+  {
+    "id": 10,
+    "name": "anim",
+    "type": "Alarm",
+    "image": "http://placehold.it/32x32",
+    "source": "http://placehold.it/32x32",
+    "isActive": true
+  }
+]
