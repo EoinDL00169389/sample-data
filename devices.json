@@ -4,7 +4,7 @@
     "name": "do",
     "type": "Camera",
     "image": "http://placehold.it/32x32",
-    "source": "http://placehold.it/32x32",
+    "source": "Dark/d_recordings_small.png",
     "isActive": false
   },
   {
@@ -12,7 +12,7 @@
     "name": "id",
     "type": "Door Sensor",
     "image": "http://placehold.it/32x32",
-    "source": "http://placehold.it/32x32",
+    "source": "Dark/d_door_small.png",
     "isActive": true
   },
   {
@@ -20,7 +20,7 @@
     "name": "eiusmod",
     "type": "Door Sensor",
     "image": "http://placehold.it/32x32",
-    "source": "http://placehold.it/32x32",
+    "source": "Dark/d_door_small.png",
     "isActive": false
   },
   {
@@ -28,7 +28,7 @@
     "name": "duis",
     "type": "Alarm",
     "image": "http://placehold.it/32x32",
-    "source": "http://placehold.it/32x32",
+    "source": "Dark/d_alarm_small.png",
     "isActive": true
   },
   {
@@ -36,7 +36,7 @@
     "name": "do",
     "type": "Alarm",
     "image": "http://placehold.it/32x32",
-    "source": "http://placehold.it/32x32",
+    "source": "Dark/d_alarm_small.png",
     "isActive": false
   },
   {
@@ -44,7 +44,7 @@
     "name": "sint",
     "type": "Door Sensor",
     "image": "http://placehold.it/32x32",
-    "source": "http://placehold.it/32x32",
+    "source": "Dark/d_door_small.png",
     "isActive": false
   },
   {
@@ -52,7 +52,7 @@
     "name": "culpa",
     "type": "Alarm",
     "image": "http://placehold.it/32x32",
-    "source": "http://placehold.it/32x32",
+    "source": "Dark/d_alarm_small.png",
     "isActive": true
   },
   {
@@ -60,7 +60,7 @@
     "name": "consectetur",
     "type": "Door Sensor",
     "image": "http://placehold.it/32x32",
-    "source": "http://placehold.it/32x32",
+    "source": "Dark/d_door_small.png",
     "isActive": false
   },
   {
@@ -68,7 +68,7 @@
     "name": "cillum",
     "type": "Door Sensor",
     "image": "http://placehold.it/32x32",
-    "source": "http://placehold.it/32x32",
+    "source": "Dark/d_door_small.png",
     "isActive": false
   },
   {
@@ -76,7 +76,7 @@
     "name": "dolore",
     "type": "Alarm",
     "image": "http://placehold.it/32x32",
-    "source": "http://placehold.it/32x32",
+    "source": "Dark/d_alarm_small.png",
     "isActive": false
   },
   {
@@ -84,7 +84,7 @@
     "name": "anim",
     "type": "Alarm",
     "image": "http://placehold.it/32x32",
-    "source": "http://placehold.it/32x32",
+    "source": "Dark/d_alarm_small.png",
     "isActive": true
   }
 ]
